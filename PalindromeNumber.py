@@ -39,7 +39,6 @@ class Solution:
         xstr = str(x)
         i=0
         j=len(xstr)-1
-        print(i,j)
 
         while i < j:
             if xstr[i]!=xstr[j]:
